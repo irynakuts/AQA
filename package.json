@@ -1,0 +1,22 @@
+{
+  "name": "aqa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irynakuts/AQA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irynakuts/AQA/issues"
+  },
+  "homepage": "https://github.com/irynakuts/AQA#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
